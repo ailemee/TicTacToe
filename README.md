@@ -1,5 +1,7 @@
 # TicTacToe
 A simple tic-tac-toe game against a computer built with Java. This project was done as a part of basic Java programming course during my first year of school in 2019.
+# Screenshot
+<img src=screenshot.png>
 # Install instructions
 1. Clone the repo
 ```shell
